@@ -5,8 +5,6 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntitySpawnEvent;
 
-import java.util.ArrayList;
-
 public class EventListen implements Listener {
 
     @EventHandler(priority =  EventPriority.LOWEST)
