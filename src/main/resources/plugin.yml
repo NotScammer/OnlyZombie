@@ -1,0 +1,4 @@
+name: OnlyZombie
+version: '${project.version}'
+main: com.notscammer.onlyzombie.OnlyZombie
+api-version: '1.20'
